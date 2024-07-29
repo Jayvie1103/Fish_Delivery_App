@@ -95,6 +95,6 @@ To get started with the Fish Delivery App, follow these steps:
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/fish_delivery_app.git
+   git clone https://github.com/Jayvie1103/fish_delivery_app.git
    cd fish_delivery_app
 
