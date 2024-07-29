@@ -98,12 +98,13 @@ To get started with the Fish Delivery App, follow these steps:
    git clone https://github.com/Jayvie1103/fish_delivery_app.git
    cd fish_delivery_app
 
-![453217698_792742449722550_1588014076767214747_n](https://github.com/user-attachments/assets/14d27c1f-12bf-47ca-9887-67d3aa54aa33)
-![453312822_477732681534736_1369960021075120631_n](https://github.com/user-attachments/assets/328c78c4-ad73-40d3-8389-bb76770b8abc)
-![453277595_474254635312530_101566983937033512_n](https://github.com/user-attachments/assets/b40fedae-f66e-4d6d-a57d-62a605f8bdab)
-![452093876_466904566093714_4307642637269292656_n](https://github.com/user-attachments/assets/a59331a4-ff58-4907-8701-097afe3afb2c)
-![451809898_1727103841393385_8485110181762499637_n](https://github.com/user-attachments/assets/16a38c2d-e4ae-4cb1-98fb-10d34ff17e75)
-![453199143_1013881996869165_8833445131028456042_n](https://github.com/user-attachments/assets/aeb12584-2727-4806-8d40-a2637cf7a8bf)
-![451653027_1545425693041999_4741250637488829810_n](https://github.com/user-attachments/assets/906d98ab-da85-4da3-89b8-264cbab516ae)
-![452093876_494762980046106_6398529933284576642_n](https://github.com/user-attachments/assets/8416d5ab-c481-474c-bbe7-738412834fad)
-![452649281_1844116879413955_4797037973651229303_n](https://github.com/user-attachments/assets/f1133d7d-91f0-4586-bacb-667f1d786d0c)
+<img src="https://github.com/user-attachments/assets/14d27c1f-12bf-47ca-9887-67d3aa54aa33" width="600" alt="453217698_792742449722550_1588014076767214747_n">
+<img src="https://github.com/user-attachments/assets/328c78c4-ad73-40d3-8389-bb76770b8abc" width="600" alt="453312822_477732681534736_1369960021075120631_n">
+<img src="https://github.com/user-attachments/assets/b40fedae-f66e-4d6d-a57d-62a605f8bdab" width="600" alt="453277595_474254635312530_101566983937033512_n">
+<img src="https://github.com/user-attachments/assets/a59331a4-ff58-4907-8701-097afe3afb2c" width="600" alt="452093876_466904566093714_4307642637269292656_n">
+<img src="https://github.com/user-attachments/assets/16a38c2d-e4ae-4cb1-98fb-10d34ff17e75" width="600" alt="451809898_1727103841393385_8485110181762499637_n">
+<img src="https://github.com/user-attachments/assets/aeb12584-2727-4806-8d40-a2637cf7a8bf" width="600" alt="453199143_1013881996869165_8833445131028456042_n">
+<img src="https://github.com/user-attachments/assets/906d98ab-da85-4da3-89b8-264cbab516ae" width="600" alt="451653027_1545425693041999_4741250637488829810_n">
+<img src="https://github.com/user-attachments/assets/8416d5ab-c481-474c-bbe7-738412834fad" width="600" alt="452093876_494762980046106_6398529933284576642_n">
+<img src="https://github.com/user-attachments/assets/f1133d7d-91f0-4586-bacb-667f1d786d0c" width="600" alt="452649281_1844116879413955_4797037973651229303_n">
+
